@@ -1,7 +1,6 @@
 {
   "name": "HOMEd Automation dimicd",
   "description": "HOMEd Automation Service Add-on",
-  "version": "1.6.7",
   "slug": "homed-custom",
   "url": "https://wiki.homed.dev/page/Automation",
   "arch": [

@@ -1,5 +1,4 @@
-# Home Assistant Add-on: HOMEd Automation
-
+# Home Assistant Add-on: HOMEd custom
 Small and fast service for home automations.
 
 ![Supports amd64 Architecture][amd64-shield]

@@ -1,4 +1,4 @@
-# Home Assistant Add-on: HOMEd Recoder
+# Home Assistant Add-on:custom-midea
 
 SQLite 3 based data logger for HOMEd services.
 

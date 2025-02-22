@@ -1,0 +1,18 @@
+{
+  "name": "HOMEd Web",
+  "description": "HOMEd Web Service Add-on",
+  "version": "2.4.12",
+  "slug": "homed-web",
+  "url": "https://wiki.homed.dev/page/Web",
+  "arch": [
+    "amd64",
+    "aarch64",
+    "armv7"
+  ],
+  "map": [
+    "addon_config:rw"
+  ],
+  "ingress": true,
+  "ingress_port": 8081,
+  "panel_icon": "mdi:home"
+}

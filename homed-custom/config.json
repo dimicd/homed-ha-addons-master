@@ -1,7 +1,7 @@
 {
   "name": "HOMEd custom dimicd",
   "description": "HOMEd custom Service Add-on",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "slug": "homed-custom",
   "url": "https://wiki.homed.dev/page/custom",
   "arch": [
